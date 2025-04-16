@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.davetiye-kutu {
+    background-color: pink;
+    padding: 40px;
+    border-radius: 50px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    text-align: center;
+    line-height: 1.8;
+}
+
+button{
+    background-color: #81aa04;
+    color: #251e1e;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 50px;
+    cursor: pointer;
+    opacity: 0.9;
+}
