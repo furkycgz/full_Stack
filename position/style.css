@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+    margin: 0 px ;
+  }
+  
+.container{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100%;
+    background-color: #007BFF; /* Mavi */
+    color: white;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  
+}
+.kapat-btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: white;
+    color: #007BFF;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
