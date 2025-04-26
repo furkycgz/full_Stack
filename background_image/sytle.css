@@ -1,0 +1,14 @@
+.box{
+ width: 500px; 
+ height: 500px;
+ border: 2px solid aquamarine;
+ background-image: url("/background_image/premium_photo-1744679851224-f02f00013e4f.avif");
+background-position: bottom left;
+}
+.box1{
+    width: 300px; 
+    height: 500px;
+    border: 2px solid black;
+    background-image: url("/background_image/photo-1744638803868-8d7d5d117919.avif");
+    background-position: center;
+}
